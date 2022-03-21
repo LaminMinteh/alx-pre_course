@@ -1,1 +1,1 @@
-my pre course readme
+Hell world
